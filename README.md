@@ -30,3 +30,9 @@ The report is in a table format with the hash value (MD5 or SHA256), malicious c
 
 1) If the response code is 0 (Ie. Item does not exist in VirusTotal's dataset), the "Malicious?" will return "Unknown"
 2) If the response code is 0 (Ie. Item does not exist in VirusTotal's dataset) or the scan date was not found, the "Scan Date" field will return "N/A"
+
+# Screenshots
+
+| ![img.png](screenshots/result.png) |
+|:--:| 
+| *Sample scan results* |
